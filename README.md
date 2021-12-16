@@ -1,5 +1,3 @@
-# Author: Michael Conard
-
 ### Code Setup
 1. If on Linux, you're good to go. If on Windows, I recommend setting up Windows Subsystem for Linux: https://www.notion.so/Script-Install-Guide-1bfef048044d47dc8c665bbe502a159a
 2. Install python3 via your preferred method, if you don't already have it.
