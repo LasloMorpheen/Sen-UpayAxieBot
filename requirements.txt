@@ -1,0 +1,17 @@
+aiosqlite
+discord.py
+dislash.py
+eth_account
+loguru
+numpy
+pandas
+Pillow
+plotly
+pycryptodome
+pytz
+qrcode
+requests
+urllib3
+web3
+discord
+kaleido

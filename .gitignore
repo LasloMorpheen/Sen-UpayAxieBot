@@ -1,0 +1,17 @@
+.idea/
+.env
+jwtTokens.json
+qr
+qr/*
+images
+images/*
+*.log
+*.db
+*.cfg
+__pycache__
+SecretStorage.py
+node_modules/
+package-lock.json
+.botpass
+iv.dat
+SeedStorage.py
